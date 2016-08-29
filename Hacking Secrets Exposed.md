@@ -10,8 +10,14 @@ http://www.ip2location.com/demo
 ## Finding IP Address Range
 https://www.arin.net/
 ## Traceroute
-Windows: tracert target-domain-or-IP
-Linux: traceroute target-domain-or-IP
+Windows: 
+```
+tracert target-domain-or-IP
+```
+Linux: 
+```
+traceroute target-domain-or-IP
+```
 ## Obtaining Archive of the Target Website
 http://archive.org/web/
 # Scanning
